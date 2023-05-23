@@ -1,0 +1,109 @@
+﻿@model VmBlog
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<!-- START SECTION BANNER -->
+<section class="breadcrumb_section overlay_bg2 page-title-light parallax_bg"
+         data-parallax-bg-image="/images/about_bg.jpg">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <div class="page-title animation"
+                     data-animation="fadeInUp"
+                     data-animation-delay="0.1s">
+                    <h1>Blog</h1>
+                </div>
+                <nav aria-label="breadcrumb"
+                     class="animation"
+                     data-animation="fadeInUp"
+                     data-animation-delay="0.2s">
+                    <ol class="breadcrumb justify-content-center">
+                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Blog</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- END SECTION BANNER -->
+<!-- START SECTION BLOG -->
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="heading_s3 mb-md-4 text-center animation"
+                     data-animation="fadeInUp"
+                     data-animation-delay="0.1s">
+                    <h2>Our Letest Blog</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="clearfix small_divider"></div>
+            </div>
+        </div>
+        <div class="row justify-content-center animation"
+             data-animation="fadeInUp"
+             data-animation-delay="0.2s">
+            @foreach (Blog blog in Model.Blogs)
+            {
+
+                <div class="col-lg-4 col-md-6 mb-md-4 mb-2 pb-2">
+                    <div class="blog_post blog_style4 box_shadow4">
+                        <div class="blog_img">
+                            <a href="#">
+                                <img src="~/images/@blog.Image" alt="blog_small_img1" />
+                            </a>
+                        </div>
+                        <div class="blog_content bg-white">
+                            <div class="blog_text">
+                                <h5 class="blog_title">
+                                    <a href="#">@blog.Title</a>
+                                </h5>
+                                <ul class="list_none blog_meta">
+                                    <li>
+                                        <a href="#"><i class="ion-calendar"></i> @blog.AddedDate.ToString("dd.MM.yyyy")</a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="ion-chatboxes"></i> 2 Comment</a>
+                                    </li>
+                                </ul>
+                                <p>
+                                    @(blog.Content.Length>100? blog.Content.Substring(0, 100) : blog.Content)
+                                </p>
+                                <a asp-controller="blog" asp-action="details" asp-route-id="@blog.Id" class="text-capitalize">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+
+        </div>
+        <div class="row">
+            <div class="col-12 mt-4">
+                <ul class="pagination pagination_style5 justify-content-center">
+                    <li class="page-item disabled">
+                        <a class="page-link" href="#" tabindex="-1">
+                            <i class="ion-ios-arrow-thin-left"></i>
+                        </a>
+                    </li>
+                    <li class="page-item active">
+                        <a class="page-link" href="#">1</a>
+                    </li>
+                    <li class="page-item"><a class="page-link" href="#">2</a></li>
+                    <li class="page-item"><a class="page-link" href="#">3</a></li>
+                    <li class="page-item">
+                        <a class="page-link" href="#">
+                            <i class="ion-ios-arrow-thin-right"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- END SECTION BLOG -->

@@ -1,0 +1,623 @@
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.exe
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.deps.json
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.runtimeconfig.json
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.runtimeconfig.dev.json
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.pdb
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.Views.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.Views.pdb
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.csprojAssemblyReference.cache
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.AssemblyInfoInputs.cache
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.AssemblyInfo.cs
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.csproj.CoreCompileInputs.cache
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.RazorAssemblyInfo.cache
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.RazorAssemblyInfo.cs
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\staticwebassets\27022021.StaticWebAssets.Manifest.cache
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\staticwebassets\27022021.StaticWebAssets.xml
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\scopedcss\bundle\27022021.styles.css
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.TagHelpers.input.cache
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.TagHelpers.output.cache
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.RazorCoreGenerate.cache
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.RazorTargetAssemblyInfo.cache
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.RazorTargetAssemblyInfo.cs
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.Views.pdb
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.csproj.CopyComplete
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.pdb
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.genruntimeconfig.cache
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Details.cshtml.g.cs
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.exe
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.deps.json
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.runtimeconfig.json
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.runtimeconfig.dev.json
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.pdb
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.Views.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.Views.pdb
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.csprojAssemblyReference.cache
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.AssemblyInfoInputs.cache
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.AssemblyInfo.cs
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.csproj.CoreCompileInputs.cache
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.RazorAssemblyInfo.cache
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.RazorAssemblyInfo.cs
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\staticwebassets\27022021.StaticWebAssets.Manifest.cache
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\staticwebassets\27022021.StaticWebAssets.xml
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\scopedcss\bundle\27022021.styles.css
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.TagHelpers.input.cache
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.TagHelpers.output.cache
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.RazorCoreGenerate.cache
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Details.cshtml.g.cs
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.RazorTargetAssemblyInfo.cache
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.RazorTargetAssemblyInfo.cs
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.Views.pdb
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.csproj.CopyComplete
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.dll
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.pdb
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.genruntimeconfig.cache
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Index.cshtml.g.cs
+C:\Users\Shohrat\Desktop\Code Academy\Groupes\P509\Lessons\5.27.02.2021-Relations\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Package\Index.cshtml.g.cs
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.exe
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.deps.json
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.runtimeconfig.json
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.runtimeconfig.dev.json
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.pdb
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.Views.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.Views.pdb
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.csprojAssemblyReference.cache
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.AssemblyInfo.cs
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.RazorAssemblyInfo.cache
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.RazorAssemblyInfo.cs
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.TagHelpers.input.cache
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.TagHelpers.output.cache
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.RazorCoreGenerate.cache
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Details.cshtml.g.cs
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Index.cshtml.g.cs
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Package\Index.cshtml.g.cs
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.RazorTargetAssemblyInfo.cache
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.RazorTargetAssemblyInfo.cs
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.Views.pdb
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.csproj.CopyComplete
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\staticwebassets\27022021.StaticWebAssets.Manifest.cache
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\staticwebassets\27022021.StaticWebAssets.xml
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.dll
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.pdb
+C:\Users\Murad\Desktop\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.genruntimeconfig.cache
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.exe
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.deps.json
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.runtimeconfig.json
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.runtimeconfig.dev.json
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.pdb
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.Views.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.Views.pdb
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.AssemblyInfoInputs.cache
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.AssemblyInfo.cs
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.csproj.CoreCompileInputs.cache
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.MvcApplicationPartsAssemblyInfo.cache
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.RazorAssemblyInfo.cache
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.RazorAssemblyInfo.cs
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\staticwebassets\27022021.StaticWebAssets.Manifest.cache
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.TagHelpers.input.cache
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.TagHelpers.output.cache
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.RazorCoreGenerate.cache
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Details.cshtml.g.cs
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Index.cshtml.g.cs
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Package\Index.cshtml.g.cs
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.RazorTargetAssemblyInfo.cache
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.RazorTargetAssemblyInfo.cs
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.Views.pdb
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.csproj.CopyComplete
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.dll
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.pdb
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.genruntimeconfig.cache
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\bin\Debug\netcoreapp3.1\27022021.StaticWebAssets.xml
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.csproj.AssemblyReference.cache
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\27022021.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\staticwebassets\27022021.StaticWebAssets.Pack.cache
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.27022021.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.27022021.props
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.27022021.props
+D:\Code Academy Asp.net\MVC\27022021\27022021\27022021\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.27022021.props
